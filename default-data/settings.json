@@ -3,6 +3,10 @@
     "prod": {
       "accountEndpoints": "https://accounts.api.anki.com",
       "apiKeys": "luyain9ep5phahP8aph8xa"
+    },
+    "dev": {
+      "accountEndpoints": "https://accounts-dev2.api.anki.com",
+      "apiKeys": "aThecaiyod2VeiF2aexeed"
     }
   }
 }

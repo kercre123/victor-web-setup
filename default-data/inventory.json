@@ -5,5 +5,11 @@
       "name": "latest.ota",
       "checksum": "e01e49e7183f6e0b279d875bcd6c0e39daea0ba6a418330ed3f7d14aeb850434"
     }
+  ],
+  "dev": [
+    {
+      "url": " http://ota.global.anki-dev-services.com/vic/master-dev/lo8awreh23498sf/full/latest.ota",
+      "name": "latest.ota"
+    }
   ]
 }
