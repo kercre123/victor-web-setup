@@ -29,6 +29,7 @@ One time install:
 1. Install vector-web-setup package: `npm install -g vector-web-setup`
 1. Perform an initial configuration: `vector-web-setup configure`
 1. Perform a local sync of software files: `vector-web-setup ota-sync`
+1. Add checksum to dev OTA: `vector-web-setup ota-approve dev/latest.ota`
 
 Daily usage:
 
@@ -62,7 +63,7 @@ GooeyChickenman files as a replacement:
 1. Download the file: `vector-web-setup ota-sync`
 1. Install it on a robot by running the software and selecting the new
     file.
-1. Sign the file after you've verified it's good: `vector-web-setup ota-sign`
+1. Sign the file after you've verified it's good: `vector-web-setup ota-approve`
 
 ### Example: Add OSKR image locally
 
